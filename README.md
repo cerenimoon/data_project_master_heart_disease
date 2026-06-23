@@ -15,5 +15,5 @@
 - **DevOps / Infrastructure - Geliştirme ve Altyapı:**  Github, Jupyter Notebook
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:** Achieved a **93% accuracy rate** via K-Nearest Neighbor classification model and achieved a **95% accuracy rate** via Decision Tree classification model for heart failure prediction. - K-Nearest Neighbor (En Yakın Komşuluk) sınıflandırma modeliyle **93% doğruluk oranı** elde ederken Decision Tree (Karar Ağacı) sınıflandırma modeliyle **95% doğruluk oranı** elde edilmiştir. 
+- **Accuracy Improvement:** Achieved a **93% accuracy rate** via K-Nearest Neighbor classification model and achieved a **95% accuracy rate** via Decision Tree classification model for heart failure prediction. - K-Nearest Neighbor (En Yakın Komşuluk) sınıflandırma modeliyle **93% doğruluk oranı** elde edilirken Decision Tree (Karar Ağacı) sınıflandırma modeliyle **95% doğruluk oranı** elde edilmiştir. 
 

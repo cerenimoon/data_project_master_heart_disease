@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
-- **Libraries - Kütüphaneler:**  Scikit-learn, Pandas, NumPy, Matplotlib 
+- **Libraries - Kütüphaneler:**  Scikit-learn, Tensorflow / Keras, Pandas, NumPy, Matplotlib 
 - **DevOps / Infrastructure - Geliştirme ve Altyapı:**  Github, Jupyter Notebook
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
